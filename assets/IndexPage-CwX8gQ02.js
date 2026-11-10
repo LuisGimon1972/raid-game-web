@@ -1,0 +1,1 @@
+import{r as e,t}from"./RiverRaidPage-BBgKS93Q.js";import{F as n,T as r,b as i,w as a,z as o}from"./symbols-B4PxknJH.js";var s=r({__name:`IndexPage`,setup(r){return(r,s)=>(n(),i(e,{class:`flex flex-center bg-green-10`},{default:o(()=>[a(t)]),_:1}))}});export{s as default};
